@@ -1,0 +1,602 @@
+[
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-3",
+    "ticketCount": 1,
+    "remainingTickets": 1
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-3",
+    "ticketCount": 1,
+    "remainingTickets": 2
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-3",
+    "ticketCount": 1,
+    "remainingTickets": 3
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-3",
+    "ticketCount": 1,
+    "remainingTickets": 4
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-3",
+    "ticketCount": 1,
+    "remainingTickets": 5
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 4
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 3
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 2
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 1
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-1",
+    "ticketCount": 1,
+    "remainingTickets": 0
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-2",
+    "ticketCount": 1,
+    "remainingTickets": 1
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-2",
+    "ticketCount": 1,
+    "remainingTickets": 2
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-2",
+    "ticketCount": 1,
+    "remainingTickets": 3
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-2",
+    "ticketCount": 1,
+    "remainingTickets": 4
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-2",
+    "ticketCount": 1,
+    "remainingTickets": 5
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-1",
+    "ticketCount": 1,
+    "remainingTickets": 6
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-1",
+    "ticketCount": 1,
+    "remainingTickets": 7
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-1",
+    "ticketCount": 1,
+    "remainingTickets": 8
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-1",
+    "ticketCount": 1,
+    "remainingTickets": 9
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-1",
+    "ticketCount": 1,
+    "remainingTickets": 10
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-5",
+    "ticketCount": 1,
+    "remainingTickets": 11
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-5",
+    "ticketCount": 1,
+    "remainingTickets": 12
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-5",
+    "ticketCount": 1,
+    "remainingTickets": 13
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-5",
+    "ticketCount": 1,
+    "remainingTickets": 14
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-5",
+    "ticketCount": 1,
+    "remainingTickets": 15
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-4",
+    "ticketCount": 1,
+    "remainingTickets": 16
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-4",
+    "ticketCount": 1,
+    "remainingTickets": 17
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-4",
+    "ticketCount": 1,
+    "remainingTickets": 18
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-4",
+    "ticketCount": 1,
+    "remainingTickets": 19
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-4",
+    "ticketCount": 1,
+    "remainingTickets": 20
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 19
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 18
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 17
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 16
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 15
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 14
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 13
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 12
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-1",
+    "ticketCount": 1,
+    "remainingTickets": 11
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-1",
+    "ticketCount": 1,
+    "remainingTickets": 10
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-1",
+    "ticketCount": 1,
+    "remainingTickets": 9
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-1",
+    "ticketCount": 1,
+    "remainingTickets": 8
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 7
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 6
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 5
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 4
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-3",
+    "ticketCount": 1,
+    "remainingTickets": 5
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-3",
+    "ticketCount": 1,
+    "remainingTickets": 6
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-3",
+    "ticketCount": 1,
+    "remainingTickets": 7
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-3",
+    "ticketCount": 1,
+    "remainingTickets": 8
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-3",
+    "ticketCount": 1,
+    "remainingTickets": 9
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 8
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 7
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 6
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 5
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-1",
+    "ticketCount": 1,
+    "remainingTickets": 6
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-1",
+    "ticketCount": 1,
+    "remainingTickets": 7
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-1",
+    "ticketCount": 1,
+    "remainingTickets": 8
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-1",
+    "ticketCount": 1,
+    "remainingTickets": 9
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-1",
+    "ticketCount": 1,
+    "remainingTickets": 10
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-2",
+    "ticketCount": 1,
+    "remainingTickets": 11
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-2",
+    "ticketCount": 1,
+    "remainingTickets": 12
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-2",
+    "ticketCount": 1,
+    "remainingTickets": 13
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-2",
+    "ticketCount": 1,
+    "remainingTickets": 14
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-2",
+    "ticketCount": 1,
+    "remainingTickets": 15
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-5",
+    "ticketCount": 1,
+    "remainingTickets": 16
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-5",
+    "ticketCount": 1,
+    "remainingTickets": 17
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-5",
+    "ticketCount": 1,
+    "remainingTickets": 18
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-5",
+    "ticketCount": 1,
+    "remainingTickets": 19
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-5",
+    "ticketCount": 1,
+    "remainingTickets": 20
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-1",
+    "ticketCount": 1,
+    "remainingTickets": 19
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-1",
+    "ticketCount": 1,
+    "remainingTickets": 18
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-1",
+    "ticketCount": 1,
+    "remainingTickets": 17
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-1",
+    "ticketCount": 1,
+    "remainingTickets": 16
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-4",
+    "ticketCount": 1,
+    "remainingTickets": 17
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-4",
+    "ticketCount": 1,
+    "remainingTickets": 18
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-4",
+    "ticketCount": 1,
+    "remainingTickets": 19
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-4",
+    "ticketCount": 1,
+    "remainingTickets": 20
+  },
+  {
+    "actionType": "ADD",
+    "entityName": "Vendor-4",
+    "ticketCount": 1,
+    "remainingTickets": 21
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 20
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 19
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 18
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 17
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 16
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 15
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 14
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 13
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-1",
+    "ticketCount": 1,
+    "remainingTickets": 12
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-1",
+    "ticketCount": 1,
+    "remainingTickets": 11
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-1",
+    "ticketCount": 1,
+    "remainingTickets": 10
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-1",
+    "ticketCount": 1,
+    "remainingTickets": 9
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 8
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 7
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 6
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-2",
+    "ticketCount": 1,
+    "remainingTickets": 5
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 4
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 3
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 2
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-3",
+    "ticketCount": 1,
+    "remainingTickets": 1
+  },
+  {
+    "actionType": "RETRIEVE",
+    "entityName": "Customer-1",
+    "ticketCount": 1,
+    "remainingTickets": 0
+  }
+]
